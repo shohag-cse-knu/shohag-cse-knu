@@ -18,6 +18,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Android Apllication Development](https://img.shields.io/badge/Android-199900?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white&style=for-the-badge)
 
 I am a seasoned Software Developer with 8 years of experience specializing in developing secure banking, trading, and healthcare software solutions. My passion lies in creating robust, scalable, and efficient software tailored to meet the needs of modern businesses.
 
