@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+![Leadership](https://img.shields.io/badge/Leadership-Excellence-blue?style=flat-square&logo=fa-solid:user-tie)
+![Banking Software](https://img.shields.io/badge/Banking-Software-blue?style=flat-square&logo=fa-solid:landmark)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-FF2D20?style=flat-square&logo=codeigniter&logoColor=white)
