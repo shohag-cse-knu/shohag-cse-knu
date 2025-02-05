@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-777BB4?style=flat-square&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-777BB4?style=flat-square&logo=laravel&logoColor=red)
 ![Codeigniter](https://img.shields.io/badge/codeigniter-777BB4?style=flat-square&logo=codeigniter&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
