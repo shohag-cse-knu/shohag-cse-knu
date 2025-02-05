@@ -20,6 +20,7 @@
 ![Android Apllication Development](https://img.shields.io/badge/Android-199900?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-11-blue?logo=csharp&logoColor=white&style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8-blue?logo=dotnet&logoColor=white&style=flat-square)
 
 I am a seasoned Software Developer with 8 years of experience specializing in developing secure banking, trading, and healthcare software solutions. My passion lies in creating robust, scalable, and efficient software tailored to meet the needs of modern businesses.
 
