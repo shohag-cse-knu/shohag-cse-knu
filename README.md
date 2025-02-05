@@ -24,6 +24,14 @@
 ![C#](https://img.shields.io/badge/C%23-11-blue?logo=csharp&logoColor=white&style=flat-square)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8-blue?logo=dotnet&logoColor=white&style=flat-square)
 
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=flat-square&logo=ai)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=flat-square&logo=tensorflow)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-purple?style=flat-square&logo=ai)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-ffdd00?style=flat-square&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/PyTorch-ML-red?style=flat-square&logo=pytorch)
+![OpenCV Python](https://img.shields.io/badge/OpenCV-Python-blue?style=flat-square&logo=python&logoColor=white)
+![OpenAI LLM](https://img.shields.io/badge/OpenAI-LLM-blue?logo=openai)
+
 I am a seasoned Software Developer more than 8 years of experience specializing in developing secure banking, trading, and healthcare software solutions. My passion lies in creating robust, scalable, and efficient software tailored to meet the needs of modern businesses.
 
 🌟 About Me
