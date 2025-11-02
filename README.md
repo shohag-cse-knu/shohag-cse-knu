@@ -40,5 +40,10 @@ I am a seasoned Software Developer more than 8 years of experience specializing 
 
 📈 Trading Platforms: Built efficient trading applications leveraging PHP and vBulletin.
 
-🩺 Healthcare Software: Developed innovative healthcare solutions powered by Laravel, CodeIgniter, MySQL, MSSQL, and Machine Learning.
+🩺 Healthcare Software: Developed innovative healthcare solutions powered by Laravel, CodeIgniter, MySQL, MSSQL, jQuery, ReactJS, Android Development, Python and Machine Learning.
+
+⚙️ DevOps: Skilled in Docker, Kubernates, Prometheus, Grafana and CI/CD pipelines.
+
+📬 Message Brokers: Experienced with RabbitMQ, Kafka, Redis and nohup reliable real-time communication and event-driven systems.
+
 
