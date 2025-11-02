@@ -36,14 +36,14 @@ I am a seasoned Software Developer more than 8 years of experience specializing 
 
 🌟 About Me
 
-🔒 Banking Software Expertise: Delivered secure, scalable banking solutions using Laravel, CodeIgniter, and MySQL.
+🔒 **Banking Software Expertise:** Delivered secure, scalable banking solutions using Laravel, CodeIgniter, and MySQL.
 
-📈 Trading Platforms: Built efficient trading applications leveraging PHP and vBulletin.
+📈 **Trading Platforms:** Built efficient trading applications leveraging PHP and vBulletin.
 
-🩺 Healthcare Software: Developed innovative healthcare solutions powered by Laravel, CodeIgniter, MySQL, MSSQL, jQuery, ReactJS, Android Development, Python and Machine Learning.
+🩺 **Healthcare Software:** Developed innovative healthcare solutions powered by Laravel, CodeIgniter, MySQL, MSSQL, jQuery, ReactJS, Android Development, Python and Machine Learning.
 
-⚙️ DevOps: Skilled in Docker, Kubernates, Prometheus, Grafana and CI/CD pipelines.
+⚙️ **DevOps:** Skilled in Docker, Kubernetes, Prometheus, Grafana, and CI/CD pipelines.
 
-📬 Message Brokers: Experienced with RabbitMQ, Kafka, Redis and nohup reliable real-time communication and event-driven systems.
+📬 **Message Brokers:** Experienced with RabbitMQ, Kafka, Redis, and nohup for reliable real-time communication and event-driven systems.
 
 
