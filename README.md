@@ -32,7 +32,7 @@
 ![OpenCV Python](https://img.shields.io/badge/OpenCV-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![OpenAI LLM](https://img.shields.io/badge/OpenAI-LLM-blue?logo=openai)
 
-I am a seasoned Software Developer more than 8 years of experience specializing in developing secure banking, trading, and healthcare software solutions. My passion lies in creating robust, scalable, and efficient software tailored to meet the needs of modern businesses.
+**Results-driven Software Engineer** with over **10 years of experience** in designing, developing, and maintaining **enterprise-grade software solutions** across **banking, healthcare, and government domains**. Demonstrated expertise in **full-stack web and mobile development**, **machine learning**, and **large-scale database systems**. Skilled in **leading cross-functional teams**, optimizing **system performance**, and delivering **secure, scalable, and high-performing applications**. Recognized for the ability to **transform complex requirements into innovative, data-driven solutions** that enhance **efficiency, reliability, and decision-making**.
 
 🌟 About Me
 
