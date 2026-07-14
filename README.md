@@ -1,49 +1,52 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
 
 ![Leadership](https://img.shields.io/badge/Leadership-Excellence-blue?style=flat-square&logo=fa-solid:user-tie)
-![Banking Software](https://img.shields.io/badge/Banking-Software-blue?style=flat-square&logo=fa-solid:landmark)
+![ERP Engineering](https://img.shields.io/badge/D365%20F%26O-ERP%20Engineering-darkblue?style=flat-square&logo=microsoft)
+![X++](https://img.shields.io/badge/Language-X%2B%2B-orange?style=flat-square)
+![Power Platform](https://img.shields.io/badge/Power-Platform-violet?style=flat-square&logo=microsoft)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Codeigniter](https://img.shields.io/badge/Codeigniter-FF2D20?style=flat-square&logo=codeigniter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Android Apllication Development](https://img.shields.io/badge/Android-199900?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white&style=flat-square)
-![C#](https://img.shields.io/badge/C%23-11-blue?logo=csharp&logoColor=white&style=flat-square)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8-blue?logo=dotnet&logoColor=white&style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=flat-square&logo=ai)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=flat-square&logo=tensorflow)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-purple?style=flat-square&logo=ai)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-ffdd00?style=flat-square&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/PyTorch-ML-red?style=flat-square&logo=pytorch)
-![OpenCV Python](https://img.shields.io/badge/OpenCV-Python-blue?style=flat-square&logo=python&logoColor=white)
-![OpenAI LLM](https://img.shields.io/badge/OpenAI-LLM-blue?logo=openai)
+---
 
-**Results-driven Software Engineer** with over **10 years of experience** in designing, developing, and maintaining **enterprise-grade software solutions** across **banking, healthcare, and government domains**. Demonstrated expertise in **full-stack web and mobile development**, **machine learning**, and **large-scale database systems**. Skilled in **leading cross-functional teams**, optimizing **system performance**, and delivering **secure, scalable, and high-performing applications**. Recognized for the ability to **transform complex requirements into innovative, data-driven solutions** that enhance **efficiency, reliability, and decision-making**.
+## 🚀 About Me
 
-🌟 About Me
+I am a **Microsoft Dynamics 365 Finance & Operations (D365 F&O) Technical Engineer** and **Enterprise Software Engineer** with over 10 years of experience delivering business-critical solutions across ERP systems, HealthTech & Research, Banking, and Global Trading Platforms. 
 
-🔒 **Banking Software Expertise:** Delivered secure, scalable banking solutions using Laravel, CodeIgniter, and MySQL.
+I specialize in designing scalable enterprise ERP solutions, custom application development, seamless integrations, and data-driven business intelligence solutions.
 
-📈 **Trading Platforms:** Built efficient trading applications leveraging PHP and vBulletin.
+*   💻 **Current Focus:** Technical analysis, solution design, and ERP customization using **X++**, Electronic Reporting (ER), OData integrations, and Azure DevOps.
+*   📊 **Business Intelligence:** Crafting advanced **Power BI** dashboards and SQL analytics to turn complex enterprise data into actionable insights.
+*   🌐 **Full-Stack Roots:** Strong background in building secure enterprise systems using React, Angular, Spring Boot, Laravel, and cloud tools like Docker and Kubernetes.
 
-🩺 **Healthcare Software:** Developed innovative healthcare solutions powered by Laravel, CodeIgniter, MySQL, MSSQL, jQuery, ReactJS, Android Development, Python and Machine Learning.
+---
 
-⚙️ **DevOps:** Skilled in Docker, Kubernetes, Prometheus, Grafana, and CI/CD pipelines.
+## 🛠️ Core Technologies & Skills
 
-📬 **Message Brokers:** Experienced with RabbitMQ, Kafka, Redis, and nohup for reliable real-time communication and event-driven systems.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **ERP & Microsoft Stack** | D365 F&O, X++, Power Platform, Electronic Reporting (ER), SSRS, Data Entities |
+| **Data & Integration** | OData, REST APIs, SQL Server, PySpark, RabbitMQ, Kafka |
+| **DevOps & Cloud** | Azure DevOps, Microsoft 365, Docker, Kubernetes, Redis |
+| **Full-Stack Development** | JavaScript, React.js, Angular, PHP, Laravel, Spring Boot, Python |
 
+---
 
+## 🧪 Featured Lab Insights & Projects
+
+I write biweekly about practical engineering across enterprise systems, data, and cloud infrastructure on my newsletter.
+
+*   **Streamlining Petty Cash:** Designed and developed a lightweight, low-cost external app using **React, MSAL.js, and OData connectivity** to automate D365 F&O entries in real-time without modifying standard ERP code—drastically cutting technical debt.
+*   **Trading Community Platform:** Engineered intelligent content management components using JavaScript and authenticated AJAX workflows to securely handle large-scale, unstructured data elements.
+*   **ERP Implementations:** Technical contributor for major large-scale initiatives including the *Rupantor* ERP project and custom Vendor Management integration workflows at icddr,b.
+
+---
+
+### 🤝 Let's Connect!
+
+*   **LinkedIn:** [Syfur Rahaman Shohag](https://www.linkedin.com/in/syfur-rahaman-shohag/)
+*   **Newsletter:** [Tech-Agnostic Engineering Lab](https://www.linkedin.com/newsletters/tech-agnostic-engineering-lab-7482690056198180864/)
