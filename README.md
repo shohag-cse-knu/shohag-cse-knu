@@ -1,29 +1,29 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Greetings!!</h1>
+<h1>Syfur Rahaman Shohag <sup>(Solutions Artist | Tech-Agnostic)</sup></h1>
+<h2>D365 F&O Technical Engineer | Enterprise Software Engineer | Business Intelligence Developer | Research Engineer</h2>
+
 
 ![Leadership](https://img.shields.io/badge/Leadership-Excellence-blue?style=flat-square&logo=fa-solid:user-tie)
-![ERP Engineering](https://img.shields.io/badge/D365%20F%26O-ERP%20Engineering-darkblue?style=flat-square&logo=microsoft)
+![Technical Expert](https://img.shields.io/badge/D365%20F%26O-ERP%20Engineering-darkblue?style=flat-square&logo=microsoft)
 ![X++](https://img.shields.io/badge/Language-X%2B%2B-orange?style=flat-square)
 ![Power Platform](https://img.shields.io/badge/Power-Platform-violet?style=flat-square&logo=microsoft)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ---
 
-## 🚀 About Me
+🔹 **Microsoft D365 F&O Technical Engineer** and **Enterprise Software Engineer** with over **9 years** of experience delivering business-critical solutions across ERP, HealthTech & Research, Banking, and Trading Platforms. 
 
-I am a **Microsoft Dynamics 365 Finance & Operations (D365 F&O) Technical Engineer** and **Enterprise Software Engineer** with over 10 years of experience delivering business-critical solutions across ERP systems, HealthTech & Research, Banking, and Global Trading Platforms. 
+🔹 I specialize in designing and delivering ERP solutions through X++ development, application customization, enterprise integrations, reporting, and business intelligence solutions.
 
-I specialize in designing scalable enterprise ERP solutions, custom application development, seamless integrations, and data-driven business intelligence solutions.
+🔹 Since 2021, I had been contributing to the USAID-funded ACTB project at icddr,b, where I designed and delivered end-to-end research and **healthcare solutions on Tuberculosis**. 
+I subsequently transitioned to the ERP implementation team, delivering technical solutions across **Finance, Supply Chain, and integration processes**. 
 
-*   💻 **Current Focus:** Technical analysis, solution design, and ERP customization using **X++**, Electronic Reporting (ER), OData integrations, and Azure DevOps.
-*   📊 **Business Intelligence:** Crafting advanced **Power BI** dashboards and SQL analytics to turn complex enterprise data into actionable insights.
-*   🌐 **Full-Stack Roots:** Strong background in building secure enterprise systems using React, Angular, Spring Boot, Laravel, and cloud tools like Docker and Kubernetes.
+🔹 Prior to HealthTech and ERP, I developed enterprise applications for banking systems and global trading community platforms using modern software technologies. 
+This diverse background enables me to approach ERP challenges with a strong software engineering foundation and practical business understanding.
 
----
+🔹 I am highly **passionate about D365 F&O**, **Research** and Development, and **love to be a Tech-Agnostic**.
 
 ## 🛠️ Core Technologies & Skills
 
